@@ -1,0 +1,35 @@
+//BODY//
+
+body{
+  background: url(https://s3.amazonaws.com/myfangate.com/rdtotalaccesslive3/wallpaper.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+//HEADER//
+
+.header{
+  img{
+    margin: 0 auto;
+  }
+}
+
+//GATE//
+
+.videoframe{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#soon{
+  background-color: black;
+}
+
+//FOOTER//
+.footer{
+  img{
+    width: 100%;
+  }
+}
